@@ -3,8 +3,11 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1000&center=true&vCenter=true&multiline=true&width=435&height=60&lines=front-end+developer" alt="Typing animation" />
+  <img src="https://media.giphy.com/media/v6aOjy0Qo1fIA/giphy.gif" width="100" alt="bouncing cat" />
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1000&center=true&vCenter=true&multiline=true&width=435&height=60&lines=front-end+developer" alt="Typing animation" />
 </p>
 
 <p align="center">
